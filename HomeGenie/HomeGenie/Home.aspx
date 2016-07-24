@@ -16,7 +16,7 @@
         </div>
         <div>
             <p>Playing from azure</p>
-            <video id="vid1" class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400" poster="poster.jpg" data-setup='{"nativeControlsForTouch": false}'>
+            <video id="vid1" class="azuremediaplayer amp-default-skin" autoplay controls width="200" height="200" poster="poster.jpg" data-setup='{"nativeControlsForTouch": false}'>
                 <source src="http://testmediaservicechannel-testmediaserviceazure.channel.mediaservices.windows.net/preview.isml/manifest" type="application/vnd.ms-sstr+xml" />
             </video>
         </div>

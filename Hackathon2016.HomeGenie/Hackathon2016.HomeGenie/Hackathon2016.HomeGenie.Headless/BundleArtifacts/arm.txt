@@ -1,0 +1,2 @@
+MainPackage=C:\Users\shgoswa\Documents\Visual Studio 2015\Projects\Hackathon2016.HomeGenie\Hackathon2016.HomeGenie.Headless\bin\ARM\Debug\Hackathon2016.HomeGenie.Headless_1.0.0.0_ARM_Debug.appx
+SymbolPackage=C:\Users\shgoswa\Documents\Visual Studio 2015\Projects\Hackathon2016.HomeGenie\Hackathon2016.HomeGenie.Headless\AppPackages\Hackathon2016.HomeGenie.Headless_1.0.0.0_Debug_Test\Hackathon2016.HomeGenie.Headless_1.0.0.0_ARM_Debug.appxsym
